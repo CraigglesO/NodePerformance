@@ -1,0 +1,24 @@
+{
+  "name": "nodeperformance",
+  "version": "1.0.0",
+  "description": "Test different algorithms inside node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraigglesO/NodePerformance.git"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "performace"
+  ],
+  "author": "Craig T O'Connor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraigglesO/NodePerformance/issues"
+  },
+  "homepage": "https://github.com/CraigglesO/NodePerformance#readme"
+}
